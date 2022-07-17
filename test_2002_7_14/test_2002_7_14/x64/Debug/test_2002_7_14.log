@@ -1,0 +1,4 @@
+﻿  2022_7_14.c
+C:\Users\长得像球能滚\Desktop\Mycode\test_2002_7_14\test_2002_7_14\2022_7_14.c(172,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\长得像球能滚\Desktop\Mycode\test_2002_7_14\test_2002_7_14\2022_7_14.c(172,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  test_2002_7_14.vcxproj -> C:\Users\长得像球能滚\Desktop\Mycode\test_2002_7_14\x64\Debug\test_2002_7_14.exe
