@@ -1,0 +1,4 @@
+﻿  函数.c
+C:\Users\长得像球能滚\Desktop\Mycode\test_2022_7_20\test_2022_7_20\函数.c(197,8): warning C4013: “Add”未定义；假设外部返回 int
+函数.obj : error LNK2019: 无法解析的外部符号 Add，函数 main 中引用了该符号
+C:\Users\长得像球能滚\Desktop\Mycode\test_2022_7_20\x64\Debug\test_2022_7_20.exe : fatal error LNK1120: 1 个无法解析的外部命令
